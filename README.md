@@ -4,7 +4,7 @@
 
 ### intro
 
-this is for understanding how most bundlers work under the water.if you want to know the detail,plz [check this out](https://debugtheworldbot.github.io/2021/07/06/minipack/)(on working).
+this is for understanding how most bundlers work under the water.if you want to know the detail,plz [check this out](https://debugtheworldbot.github.io/2021/07/06/minipack/).
 
 ### how to start 
 
